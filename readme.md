@@ -5,7 +5,7 @@
 * It contains page object model pattern, generates jest HTML report, takes screenshot
 
 Steps to Run the Automation scripts
-1. Git clone
+1. Git clone https://github.com/sshankaregowda/Amazon.git
 2. Navigate to project root directory
 3. npm install
 4. npm run test
