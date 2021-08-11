@@ -1,0 +1,4 @@
+{
+    "tabletName": "span.a-truncate-cut",
+    "proceedToCheckoutBtn": "//input[@name='proceedToRetailCheckout']"
+}

@@ -1,0 +1,3 @@
+{
+    "tabletsLink": "//span[@dir='auto' and contains(text(),'Tablets')]"
+}

@@ -1,0 +1,4 @@
+{
+    "addToCartBtn": "input#add-to-cart-button",
+    "tabletTitle": "#productTitle"
+}

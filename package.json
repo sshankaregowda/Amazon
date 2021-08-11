@@ -1,0 +1,23 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
+    "jest": "^27.0.6",
+    "jest-html-reporters": "^2.1.6",
+    "playwright": "^1.13.1"
+  },
+  "jest":{
+    "reporters": [
+      "default",
+      "jest-html-reporters"
+    ]
+  }
+}

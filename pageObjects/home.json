@@ -1,0 +1,4 @@
+{
+    "electronicsLink": "#nav-xshop a:nth-child(7)",
+    "tabletsLink": "//span[@dir='auto' and contains(text(),'Tablets')]"
+}
